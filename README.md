@@ -1,9 +1,10 @@
 ## Olá!! Meu Nome é Cauã Carlos
 
-- :telescope: Desenvolvedor Backend
-- :seedling: Estudando HTML, CSS, Python e Ingles
-- :video_game: No meu tempo livre, gosto muito de jogar videogame e fazer alguns vídeos pro youtube(também posto algumas coisas no meu Instagram).
+- :telescope: Desenvolvedor Backend e GameDev
+- :seedling: Estudando HTML, CSS, Python, Godot e Java
+- :video_game: No meu tempo livre, gosto muito de jogar videogame e Desenvolver Jogos.
 - :mailbox: Entre em contato comigo pelo email:cauacarlos.profissional12@gmail.com
+- :fire: Tenho um Objetivo de Desenvolver Jogos AAA como Diretor, como também desenvolver novas tecnológias
 
 <div align="center">
   <a href="https://github.com/ThebkrsLin">
