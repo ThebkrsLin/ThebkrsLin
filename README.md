@@ -5,12 +5,12 @@
 - :video_game: No meu tempo livre, gosto muito de jogar videogame e Desenvolver Jogos.
 - :mailbox: Entre em contato comigo pelo email:cauacarlos.profissional12@gmail.com
 - :fire: Tenho um Objetivo de Desenvolver Jogos AAA como Diretor, como também desenvolver novas tecnológias
-
+<!--
 <div align="center">
   <a href="https://github.com/ThebkrsLin">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=thebkrslin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebkrslin&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Thebkrslin&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thebkrslin&layout=compact&langs_count=10&theme=dark"/>
+</div>-->
 <div style="display: inline_block"><br>
   <img align="center" alt="ThebkrsLin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ThebkrsLin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
