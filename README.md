@@ -1,7 +1,7 @@
 ## Olá!! Meu Nome é Cauã Carlos
 
 - :telescope: Desenvolvedor Backend, GameDev e um dos Criadores da Uniytheds Team 
-- :seedling: Estudando HTML, CSS, Python, Godot e Java
+- :seedling: Estudando HTML, CSS, PHP, Python, Java e Godot
 - :video_game: No meu tempo livre, gosto muito de jogar videogame e Desenvolver Jogos.
 - :mailbox: Entre em contato comigo pelo email:cauacarlos.profissional12@gmail.com
 - :fire: Tenho um Objetivo de Desenvolver Jogos AAA como Diretor, como também desenvolver novas tecnológias
@@ -14,6 +14,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="ThebkrsLin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ThebkrsLin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ThebkrsLin-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="ThebkrsLin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ThebkrsLin-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="ThebkrsLin-Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
