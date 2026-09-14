@@ -3,7 +3,7 @@
 - :telescope: Desenvolvedor Backend, GameDev e um dos Criadores da Uniytheds Team 
 - :seedling: Estudando HTML, CSS, PHP, Python, Java e Godot
 - :video_game: No meu tempo livre, gosto muito de jogar videogame e Desenvolver Jogos.
-- :mailbox: Entre em contato comigo pelo email:cauacarlos.profissional12@gmail.com
+- :mailbox: Entre em contato comigo pelo email:cauacarlos.dev@gmail.com
 - :fire: Tenho um Objetivo de Desenvolver Jogos AAA como Diretor, como também desenvolver novas tecnológias
 <!--
 <div align="center">
