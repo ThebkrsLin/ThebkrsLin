@@ -33,6 +33,6 @@
   <a href="https://www.linkedin.com/in/cau%C3%A3-carlos-549535338/" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
   <h2>Contatos da Uniytheds Team:</h2>
-  <a href="uniytheds.contact@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=purple"></a>
+  <a href="mailto:uniytheds.contact@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=purple"></a>
   <a href="https://uniytheds-team.itch.io/" target="_blank"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&color=purple" target="_blank"></a>
 </div>
