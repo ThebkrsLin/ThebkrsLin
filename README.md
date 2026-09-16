@@ -1,21 +1,22 @@
 ## Olá!! Meu Nome é Cauã Carlos
 
-- :telescope: Desenvolvedor Backend/Fullstack, GameDev e um dos Criadores da Uniytheds Team 
+- :telescope: Desenvolvedor Backend, GameDev e um dos Criadores da Uniytheds Team 
 - :seedling: Estudando HTML, CSS, JavaScript, PHP, Python, Java e Godot
 - :video_game: No meu tempo livre, gosto muito de jogar videogame e Desenvolver Jogos.
-- :mailbox: Entre em contato comigo pelo email:cauacarlos.dev@gmail.com
+- :mailbox: Entre em contato comigo pelo email: cauacarlos.dev@gmail.com
 - :fire: Tenho um Objetivo de Desenvolver Jogos AAA como Diretor, como também desenvolver novas tecnológias
   
-<!--
+
 <div align="center">
   <a href="https://github.com/ThebkrsLin">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Thebkrslin&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thebkrslin&layout=compact&langs_count=10&theme=dark"/>
-</div>-->
+  <img height="130em" src="https://thebkrs-lin.vercel.app/api"/>
+  <img height="130em" src="https://thebkrs-lin.vercel.app/api/top-langs/"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ThebkrsLin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ThebkrsLin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ThebkrsLin-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="ThebkrsLin-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="ThebkrsLin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ThebkrsLin-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
